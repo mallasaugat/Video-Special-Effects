@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.o
+
+# Ignore img files
+*.jpg
+*.png
+
+# Reports
+*.pdf
+
+# Folders 
+/Images
+
